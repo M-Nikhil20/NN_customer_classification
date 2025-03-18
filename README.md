@@ -41,8 +41,8 @@ Save the trained model, export it if needed, and deploy it for real-world use.
 
 ## PROGRAM
 
-### Name: 
-### Register Number:
+### Name: Nikhil M
+### Register Number: 212222230095
 
 ```python
 class PeopleClassifier(nn.Module):
